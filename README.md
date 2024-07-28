@@ -1,5 +1,5 @@
 # Benchmark
-identity transposon insert methods benchmark
+Identity transposon insert methods benchmark
 
 # Workflow  
 1. Generate simulated transposon insertion data

@@ -11,6 +11,7 @@ identity transposon insert methods benchmark
 1. [TEMP2](https://github.com/weng-lab/TEMP2)
 2. [ngs_te_mapper2](https://github.com/bergmanlab/ngs_te_mapper2)
 3. [RetroSeq](https://github.com/tk2/RetroSeq)
+4. [TEi](https://github.com/tchen-tt/TEi)
 
 # Reference  
 \[1\] Keane T M, Wong K, Adams D J. RetroSeq: transposable element discovery from next-generation sequencing data[J]. Bioinformatics, 2013, 29(3): 389-390.  

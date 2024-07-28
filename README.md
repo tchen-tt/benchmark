@@ -8,7 +8,7 @@ identity transposon insert methods benchmark
 4. Test different methods to identify transposon insertion sites
 
 # Methods
-1. ![TEMP2](https://github.com/weng-lab/TEMP2)
-2. ![ngs_te_mapper2](https://github.com/bergmanlab/ngs_te_mapper2)
-3. ![RetroSeq](https://github.com/tk2/RetroSeq)
+1. [TEMP2](https://github.com/weng-lab/TEMP2)
+2. [ngs_te_mapper2](https://github.com/bergmanlab/ngs_te_mapper2)
+3. [RetroSeq](https://github.com/tk2/RetroSeq)
 
